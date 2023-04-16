@@ -4,6 +4,9 @@ Aim of the Project
 
 The goal of the Customer Conversion Prediction project is to build a machine learning model that can predict whether a client will subscribe to the insurance based on their demographic and marketing data. The project aims to help the insurance company identify the customers that are most likely to convert, so that they can be targeted via call and the cost of telephonic marketing campaigns can be reduced
 
+
+
+Implementation Procedure
 1.Libraries Import and Load Dataset
 We have imported requrired libraries and also loaded dataset
 
@@ -36,82 +39,5 @@ We used Linear regression,Decision Tree, KNN
 
 6.feature importance
 we can see that Dur(Duration) is most important feature in dataset
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
